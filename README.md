@@ -10,7 +10,7 @@
         <li><strong>Nome:</strong> Alexandre Ferreira de Mesquita</li>
         <li><strong>Formação:</strong> Cursando Análise e Desenvolvimento de Sistemas</li>
         <li><strong>Paixão:</strong> Tecnologia</li>
-        <li><strong>Objetivo:</strong> Tornar-se um Desenvolvedor de Software</li>
+        <li><strong>Objetivo:</strong> Tornar-se um Desenvolvedor Front-End/Back-End</li>
     </ul>
 </section>
 
